@@ -1,0 +1,88 @@
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.iOS.exe
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.iOS.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Messenger.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\PCLStorage.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLite-net.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.csproj.CopyComplete
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.exe
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.iOS.exe
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.iOS.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Messenger.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\PCLStorage.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLite-net.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\bin\iPhoneSimulator\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.exe
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.iOS\obj\iPhoneSimulator\Debug\Countr.iOS.pdb

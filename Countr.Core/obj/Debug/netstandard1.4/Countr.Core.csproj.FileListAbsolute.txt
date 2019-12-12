@@ -1,0 +1,19 @@
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.deps.json
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.AssemblyInfo.cs
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.deps.json
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.AssemblyInfo.cs
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Mono.Android.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Mono.Android.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\bin\Debug\netstandard1.4\Mono.Android.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core\obj\Debug\netstandard1.4\Countr.Core.csproj.CopyComplete

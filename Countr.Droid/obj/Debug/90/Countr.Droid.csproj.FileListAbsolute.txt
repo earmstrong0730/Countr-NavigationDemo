@@ -1,0 +1,834 @@
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\Countr.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\Countr.Droid.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\com.companyname.Countr.apk
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\com.companyname.Countr-Signed.apk
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\bin\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\build.props
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\adb.props
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\Countr.Droid.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\resourcepaths.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res.flag
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\ddb1e948f56fe4fee68626bec49d06117885a942.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\ed414d4b77a8f7b97e792166c2c4d4473a810502.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\7e7561f7f2a82594760ff1faa046eb503895a978.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\70ea0e3d0ae3d37a6384710b3de51f5cab83f312.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\c9192ee491381a541827cbad670b288a1d22556e.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\e73ea44c405e2c12e7ecbc205aa9e7471cf62124.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\4f44b09b529fcd8bad82f4dcef0a58b878e07cb4.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\37e2813fea2925e2885a72c8ed23164fb3f4dfcd.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\ddb1e948f56fe4fee68626bec49d06117885a942.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\ed414d4b77a8f7b97e792166c2c4d4473a810502.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\7e7561f7f2a82594760ff1faa046eb503895a978.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\70ea0e3d0ae3d37a6384710b3de51f5cab83f312.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\c9192ee491381a541827cbad670b288a1d22556e.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\e73ea44c405e2c12e7ecbc205aa9e7471cf62124.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\4f44b09b529fcd8bad82f4dcef0a58b878e07cb4.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\37e2813fea2925e2885a72c8ed23164fb3f4dfcd.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\flata\compiled.flata
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\R.txt
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\R.cs.flag
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\Countr.Droid.csproj.CopyComplete
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\Countr.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\Countr.Droid.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\bin\com.companyname.Countr.apk
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\layout\splashscreen.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\arrays.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\colors.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\dimens.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\integers.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\splashstyle.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\strings.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values\styles.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\values-v21\styles.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\layout\counters_view.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\layout\counter_recycler_view.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable\plus.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-hdpi\plus.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-mdpi\plus.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-xhdpi\plus.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-xxhdpi\plus.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\layout\counter_view.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\menu\new_counter_menu.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable\splashscreen.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable\launch_image.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-hdpi\launch_image.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-mdpi\launch_image.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-xhdpi\launch_image.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\res\drawable-xxhdpi\launch_image.png
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\uploadflags.txt
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Countr.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.Export.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\PCLStorage.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLite-net.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Diagnostics.Debug.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.ObjectModel.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Threading.Tasks.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Collections.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Linq.Expressions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Reflection.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Globalization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Collections.Concurrent.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Threading.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Linq.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Text.RegularExpressions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Dynamic.Runtime.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.IO.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Resources.ResourceManager.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.Export.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\SQLite-net.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Core.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Core.UI.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Fragment.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Localization.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Plugins.Messenger.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\link.flag
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Countr.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.Export.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.Export.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Core.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Core.UI.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Fragment.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll.config
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll.config
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Localization.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.Droid.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Plugins.Messenger.dll.mdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\PCLStorage.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLite-net.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Collections.Concurrent.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\assets\machine.config
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\static.flag
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\buildid.txt
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\platform\droid\views\MvxEventSourceActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\platform\droid\views\MvxEventSourceTabActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxSplashScreenActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabsFragmentActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabsFragmentActivity_TabFactory.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxGuardedLinearLayoutManager.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerViewHolder.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatAutoCompleteTextView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatImageView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatRadioGroup.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatSpinner.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxActionBarDrawerToggle.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxAppCompatActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxAppCompatDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxSplashScreenAppCompatActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxCachingFragmentPagerAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxCachingFragmentStatePagerAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentPagerAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentStatePagerAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxSwipeRefreshLayout.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxTabsFragmentActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxTabsFragmentActivity_TabFactory.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\services\MvxBroadcastReceiver.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\services\MvxIntentService.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceListFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourcePreferenceFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxPreferenceFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxAutoCompleteTextView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxDatePicker.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxExpandableListView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxFrameControl.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxFrameLayout.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxGridView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxImageView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLayoutInflater.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLayoutInflater_PrivateFactoryWrapper2.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLinearLayout.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxListItemView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxListView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxRadioGroup.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxRelativeLayout.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxSimpleListItemView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxSpinner.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxTableLayout.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxTimePicker.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnCloseListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnQueryTextListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxDialogFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxFragmentActivity_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxReplaceableJavaContainer.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\CountersView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\CounterView.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\SwipeItemTouchHelperCallback.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxDialogFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxPreferenceFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md55b45cef10ddfdfc0fe8bec16df5d1f36\SplashScreen.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceFragmentActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceListFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5c44e626e43e5b8d6d42d28410a243d52\MvxEventSourceAppCompatActivity.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5c44e626e43e5b8d6d42d28410a243d52\MvxEventSourceAppCompatDialogFragment.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxActivity_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxAndroidApplication.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxTabActivity_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapterWithChangedEvent.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapter_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxContextWrapper.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxExpandableListAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxFilteringAdapter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxFilteringAdapter_MyFilter.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5716162e2cd7f7ce01364d7c5d961f40b\MvxAppCompatActivity_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5716162e2cd7f7ce01364d7c5d961f40b\MvxAppCompatDialogFragment_1.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5406fdaf30b8e49a7a72046b300fdff09\MvxLayoutInflaterCompat_FactoryWrapper.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\md5406fdaf30b8e49a7a72046b300fdff09\MvxLayoutInflaterCompat_FactoryWrapper2.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\src\com\companyname\countr\R.java
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\android\bin\classes.dex
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CopyConfigFiles.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Droid\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\Countr.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\Countr.Droid.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\com.companyname.Countr.apk
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\com.companyname.Countr-Signed.apk
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\build.props
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\adb.props
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\Countr.Droid.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\resourcepaths.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res.flag
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\4b666ea677ea4b27ade394a16f2249fc6149b90e.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\92085507b9c63edcf32ca6af72035d63c9074b56.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\4b666ea677ea4b27ade394a16f2249fc6149b90e.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\92085507b9c63edcf32ca6af72035d63c9074b56.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\compiled.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\R.txt
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\R.cs.flag
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\Countr.Droid.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\Countr.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\Countr.Droid.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\bin\com.companyname.Countr.apk
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\splashscreen.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\arrays.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\colors.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\dimens.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\integers.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\splashstyle.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\strings.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values\styles.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\values-v21\styles.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\counters_view.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\counter_recycler_view.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable\plus.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-hdpi\plus.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-mdpi\plus.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-xhdpi\plus.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-xxhdpi\plus.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\counter_view.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\menu\new_counter_menu.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable\splashscreen.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable\launch_image.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-hdpi\launch_image.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-mdpi\launch_image.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-xhdpi\launch_image.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\drawable-xxhdpi\launch_image.png
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\uploadflags.txt
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\bin\Debug\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\cf3afa13ca86eae9b2759dd872ba4970eea0965b.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\57ffefa86be359c6b5d8bef221221d51e9a4a3b9.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\8f99a3d7e9e2bc7d9a32e9fb153e6bba7b96fffd.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\1e5b30785a5d55e69854f1994b4115eff2601880.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\6ab0369c8721a73512eaf8a8dcd9bd547f21de9d.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\2c1ba46274bfac4072c89720087e6a3b2df471f3.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\cf3afa13ca86eae9b2759dd872ba4970eea0965b.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\57ffefa86be359c6b5d8bef221221d51e9a4a3b9.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\8f99a3d7e9e2bc7d9a32e9fb153e6bba7b96fffd.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\1e5b30785a5d55e69854f1994b4115eff2601880.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\6ab0369c8721a73512eaf8a8dcd9bd547f21de9d.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\flata\2c1ba46274bfac4072c89720087e6a3b2df471f3.flata
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Countr.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.Export.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\PCLStorage.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLite-net.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Diagnostics.Debug.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.ObjectModel.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Threading.Tasks.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Collections.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Linq.Expressions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Reflection.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Globalization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Collections.Concurrent.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Threading.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Linq.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Text.RegularExpressions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Dynamic.Runtime.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.IO.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Resources.ResourceManager.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Mono.Android.Export.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\SQLite-net.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Core.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Core.UI.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.Fragment.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Localization.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\linksrc\MvvmCross.Plugins.Messenger.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\link.flag
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Countr.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Countr.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.Export.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.Export.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Core.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Core.UI.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Core.UI.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Fragment.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.Fragment.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll.config
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll.config
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Localization.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.Droid.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\MvvmCross.Plugins.Messenger.dll.mdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\PCLStorage.Abstractions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\PCLStorage.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLite-net.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Collections.Concurrent.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\assets\machine.config
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\static.flag
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\buildid.txt
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\platform\droid\views\MvxEventSourceActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\platform\droid\views\MvxEventSourceTabActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxSplashScreenActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabsFragmentActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\views\MvxTabsFragmentActivity_TabFactory.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxGuardedLinearLayoutManager.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\recyclerview\MvxRecyclerViewHolder.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatAutoCompleteTextView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatImageView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatRadioGroup.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\widget\MvxAppCompatSpinner.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxActionBarDrawerToggle.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxAppCompatActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxAppCompatDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v7\appcompat\MvxSplashScreenAppCompatActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxCachingFragmentPagerAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxCachingFragmentStatePagerAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentPagerAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxFragmentStatePagerAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxSwipeRefreshLayout.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxTabsFragmentActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\support\v4\MvxTabsFragmentActivity_TabFactory.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\services\MvxBroadcastReceiver.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\services\MvxIntentService.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourceListFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\eventsource\MvxEventSourcePreferenceFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\droid\fragments\MvxPreferenceFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxAutoCompleteTextView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxDatePicker.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxExpandableListView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxFrameControl.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxFrameLayout.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxGridView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxImageView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLayoutInflater.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLayoutInflater_PrivateFactoryWrapper2.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxLinearLayout.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxListItemView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxListView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxRadioGroup.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxRelativeLayout.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxSimpleListItemView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxSpinner.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxTableLayout.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mvvmcross\binding\droid\views\MvxTimePicker.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnCloseListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnQueryTextListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxDialogFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxFragmentActivity_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50f9f53a3e05887909c76670e98dcc244\MvxFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxReplaceableJavaContainer.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxDialogFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5fc4347d7e5bd755965e3a067e0aa4ca7\MvxPreferenceFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\CountersView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\CounterView.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\SwipeItemTouchHelperCallback.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md55b45cef10ddfdfc0fe8bec16df5d1f36\SplashScreen.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceFragmentActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e6399382982fd9af435fb936e99e7be5\MvxEventSourceListFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5c44e626e43e5b8d6d42d28410a243d52\MvxEventSourceAppCompatActivity.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5c44e626e43e5b8d6d42d28410a243d52\MvxEventSourceAppCompatDialogFragment.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxActivity_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxAndroidApplication.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5574c1700f54c1af9f21719cde6491b73\MvxTabActivity_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5716162e2cd7f7ce01364d7c5d961f40b\MvxAppCompatActivity_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5716162e2cd7f7ce01364d7c5d961f40b\MvxAppCompatDialogFragment_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapterWithChangedEvent.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxAdapter_1.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxContextWrapper.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxExpandableListAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxFilteringAdapter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxFilteringAdapter_MyFilter.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5406fdaf30b8e49a7a72046b300fdff09\MvxLayoutInflaterCompat_FactoryWrapper.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5406fdaf30b8e49a7a72046b300fdff09\MvxLayoutInflaterCompat_FactoryWrapper2.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\com\companyname\countr\R.java
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\bin\classes.dex
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CopyConfigFiles.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\android\src\md5cdf1d23afd2d015338969cb6a8496a88\MvxNavigatingObjectView.java

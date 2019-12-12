@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.iOS\\Countr.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\Countr.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\Countr.Core.csproj",
+        "projectName": "Countr.Core",
+        "projectPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\Countr.Core.csproj",
+        "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Binding": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Core": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Platform": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Plugin.Messenger": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "PCLStorage": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.4.118, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wpa81"
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.iOS\\Countr.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.iOS\\Countr.iOS.csproj",
+        "projectName": "Countr.iOS",
+        "projectPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.iOS\\Countr.iOS.csproj",
+        "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\Countr.Core.csproj": {
+                "projectPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\Countr-NavigationDemo\\Countr.Core\\Countr.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Binding": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Core": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Platform": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MvvmCross.Plugin.Messenger": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "PCLStorage": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

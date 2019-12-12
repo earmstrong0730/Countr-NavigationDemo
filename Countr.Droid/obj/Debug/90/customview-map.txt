@@ -1,0 +1,63 @@
+android.support.design.widget.AppBarLayout;obj\Debug\90\res\layout\counter_view.xml
+android.support.design.widget.AppBarLayout;obj\Debug\90\res\layout\counters_view.xml
+android.support.design.widget.AppBarLayout;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+android.support.design.widget.FloatingActionButton;obj\Debug\90\res\layout\counters_view.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+attr;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+attr;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\5\jl\res\values\mvxrecyclerviewbindingattributes.xml
+bitmap;obj\Debug\90\res\drawable\splashscreen.xml
+Button;obj\Debug\90\res\layout\counter_view.xml
+Button;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+color;obj\Debug\90\res\values\colors.xml
+declare-styleable;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+declare-styleable;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\5\jl\res\values\mvxrecyclerviewbindingattributes.xml
+dimen;obj\Debug\90\res\values\dimens.xml
+EditText;obj\Debug\90\res\layout\counter_view.xml
+EditText;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+FrameLayout;obj\Debug\90\res\layout\counter_view.xml
+FrameLayout;obj\Debug\90\res\layout\counters_view.xml
+FrameLayout;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+ImageButton;obj\Debug\90\res\layout\counter_recycler_view.xml
+include;obj\Debug\90\res\layout\counter_view.xml
+include;obj\Debug\90\res\layout\counters_view.xml
+include;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+integer;obj\Debug\90\res\values\integers.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\ids.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+item;obj\Debug\90\res\drawable\splashscreen.xml
+item;obj\Debug\90\res\menu\new_counter_menu.xml
+item;obj\Debug\90\res\values\arrays.xml
+item;obj\Debug\90\res\values\splashstyle.xml
+item;obj\Debug\90\res\values\styles.xml
+item;obj\Debug\90\res\values-v21\styles.xml
+layer-list;obj\Debug\90\res\drawable\splashscreen.xml
+LinearLayout;obj\Debug\90\res\layout\splashscreen.xml
+menu;obj\Debug\90\res\menu\new_counter_menu.xml
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView;obj\Debug\90\res\layout\counters_view.xml
+RelativeLayout;obj\Debug\90\res\layout\counter_recycler_view.xml
+RelativeLayout;obj\Debug\90\res\layout\counter_view.xml
+RelativeLayout;obj\Debug\90\res\layout\counters_view.xml
+RelativeLayout;obj\Debug\90\res\layout\mvx_navigating_object_view.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\ids.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\4\jl\res\xml\empty.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\5\jl\res\values\mvxrecyclerviewbindingattributes.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\7\jl\res\values\strings.xml
+resources;obj\Debug\90\res\values\arrays.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\dimens.xml
+resources;obj\Debug\90\res\values\integers.xml
+resources;obj\Debug\90\res\values\splashstyle.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+resources;obj\Debug\90\res\values-v21\styles.xml
+shape;obj\Debug\90\res\drawable\splashscreen.xml
+solid;obj\Debug\90\res\drawable\splashscreen.xml
+string;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Droid\obj\Debug\90\lp\7\jl\res\values\strings.xml
+string;obj\Debug\90\res\values\strings.xml
+string-array;obj\Debug\90\res\values\arrays.xml
+style;obj\Debug\90\res\values\splashstyle.xml
+style;obj\Debug\90\res\values\styles.xml
+style;obj\Debug\90\res\values-v21\styles.xml
+TextView;obj\Debug\90\res\layout\counter_recycler_view.xml
+TextView;obj\Debug\90\res\layout\splashscreen.xml

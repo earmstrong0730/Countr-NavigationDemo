@@ -1,0 +1,60 @@
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Countr.Core.Tests.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Countr.Core.Tests.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Moq.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.Wpf.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.Wpf.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Wpf.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Moq.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\Moq.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.Wpf.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Wpf.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.Wpf.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\bin\Debug\MvvmCross.Plugins.Messenger.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.csproj.CopyComplete
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 10\Countr\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Countr.Core.Tests.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Countr.Core.Tests.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Countr.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Moq.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.Wpf.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.Wpf.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Plugins.Messenger.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Wpf.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Countr.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Moq.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\Moq.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Platform.Wpf.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Core.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Wpf.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Binding.Wpf.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\bin\Debug\MvvmCross.Plugins.Messenger.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\Countr-NavigationDemo\Countr.Core.Tests\obj\Debug\Countr.Core.Tests.pdb
